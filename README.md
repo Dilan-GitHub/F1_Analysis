@@ -24,21 +24,21 @@ The dataset used for this project includes the following columns:
 
 ## Analysis List
 
-## Standardize Date Format
+ Standardize Date Format
 
-## Convert the race date to a standardized date format.
+ Convert the race date to a standardized date format.
 Performance Analysis
 
-## Calculate average winning times over the decades.
-## Determine the average number of races per year.
-## Identify drivers and their win counts for specific manufacturers in given decades.
-## Geographical Analysis
+Calculate average winning times over the decades.
+Determine the average number of races per year.
+Identify drivers and their win counts for specific manufacturers in given decades.
+Geographical Analysis
 
-## Analyze the distribution of wins across different locations.
-## Duplicate Removal
+Analyze the distribution of wins across different locations.
+Duplicate Removal
 
-## Identify and remove duplicate records from the dataset if any.
-## Approach Used
+Identify and remove duplicate records from the dataset if any.
+Approach Used
 
 ## Data Cleaning:
 Standardize Date Formats: Ensure consistency in date formats.
