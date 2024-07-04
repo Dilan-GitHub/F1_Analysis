@@ -52,4 +52,4 @@ Conclusion
 
 This project involves cleaning and analyzing the historical Formula 1 dataset to provide insights into race performance trends. By standardizing data formats, converting race times, and analyzing various performance metrics, the dataset is prepared for detailed analysis to identify trends and patterns in Formula 1 races.
 
-For more details, you can view the full SQL script file HERE.
+For more details, you can view the full SQL script file [HERE](https://github.com/Dilan-GitHub/F1_Analysis/blob/main/F1.sql)
