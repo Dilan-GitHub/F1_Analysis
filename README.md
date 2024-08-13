@@ -6,7 +6,7 @@ This project involves cleaning and analyzing a dataset of historical Formula 1 r
 
 ## Purpose of the Project
 
-The major aim of this project is to clean and analyze the Formula 1 historical data to understand trends in race performance, identify key factors affecting race outcomes, and provide insights for stakeholders in the Formula 1 industry.
+The major aim of this project is to clean and analyze the Formula 1 historical data to understand trends in race performance, identify key factors affecting race outcomes, and provide insights for fans of Formula 1.
 
 ## About the Data
 
@@ -20,6 +20,9 @@ The dataset used for this project includes the following columns:
 | CAR           | Vehicle manufacturer              | VARCHAR(100)    |
 | LAPS                  | Number of laps in a race  | INT  |
 | TIME            | Total time of winning race      | VARCHAR(10)   |
+| HOURS            | Total hours of winning race      | VARCHAR(10)   |
+| MINUTES            | Total minutes of winning race      | VARCHAR(10)   |
+| SECONDS           | Total seconds of winning race      | VARCHAR(10)   |
 
 
 ## Analysis List
